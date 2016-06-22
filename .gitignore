@@ -1,0 +1,14 @@
+# Java class and cachefiles
+*.class
+*.cache
+
+# Generated files
+target/
+project/
+
+# Log Files
+*.log
+
+# Intellij
+*.iml
+.idea/
