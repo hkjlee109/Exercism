@@ -4,6 +4,7 @@
 
 # Generated files
 target/
+build/
 project/
 
 # Log Files
