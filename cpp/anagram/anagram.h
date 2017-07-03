@@ -16,7 +16,7 @@ private:
 
 public:
   anagram(string _word);
-  vector<string> matches(vector<string> _tests);
+  vector<string> matches(const vector<string> _tests);
 };
 
 #endif
